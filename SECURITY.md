@@ -16,6 +16,6 @@ Build 930 (Latest)
 Support Status:
 Build 930 (Latest): ✅
 
-## Reporting a Vulnerability
+## More Info
 
-Don't Say that we should do updates faster. because you must be patient.
+1. Don't Say that we should do updates faster. because you must be patient.
