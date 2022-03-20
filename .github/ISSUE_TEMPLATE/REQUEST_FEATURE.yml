@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Request Feature
+description: Request A Feature
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
@@ -21,7 +21,7 @@ body:
     id: request
     attributes:
       label: What do you want to request?
-      description: Note: This is only a scratch project. Scratch project cant support websites. Please Do Not Request Websites!
+      description: "Note: This is only a scratch project. Scratch project cant support websites. Please Do Not Request Websites."
       placeholder: Tell Us Something To Add!
       value: "Request Something"
     validations:
