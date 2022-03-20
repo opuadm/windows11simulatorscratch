@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to send us a feature or something else request!
-  - type: input
+ - type: input
     id: contact
     attributes:
       label: Contact Details
