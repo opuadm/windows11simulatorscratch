@@ -1,7 +1,7 @@
 name: Request Feature
 description: Request A Feature
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: "[Feature Request]: "
+labels: ["Request"]
 assignees:
   - octocat
 body:
