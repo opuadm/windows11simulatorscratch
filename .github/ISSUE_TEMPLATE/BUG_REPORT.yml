@@ -7,7 +7,7 @@ body:
   attributes:
    value: |
      "Thanks for taking some while to report a bug!"
-- type: dropdown
+ - type: dropdown
   id: download
   attributes:
     label: "On what version did you saw that bug?"
