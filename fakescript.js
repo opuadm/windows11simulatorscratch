@@ -1,0 +1,12 @@
+Detect.Script
+ Java.Enter
+ iframe.ver="3.4.50"
+Web.Detect=Opera.Accept(Other.Aceept)(html.deny)
+Sound.Voice(Update)
+Headphone.Wired.Volume(Update)
+Volume.Set="5%"
+ else
+   Volume.Set="50%"
+Detect.Script.Delete
+   end
+end
