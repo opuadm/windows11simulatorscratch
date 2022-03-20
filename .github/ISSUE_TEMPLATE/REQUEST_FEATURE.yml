@@ -1,0 +1,28 @@
+name: Request A Feature
+description: Request A Feature or something else for this!
+title: "[Request]: "
+labels: ["request"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to send us a feature or something else request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+     validations:
+       required: false
+  - type: textarea
+    id: request
+    attributes:
+      label: Type What Do You Want We Should Add.
+      description: Note: This is from scratch project. We cant place website to this project.
+      placeholder: Tell Us What Do You Want Here New!
+      value: "Request Something!"
+    validations:
+      required: true
