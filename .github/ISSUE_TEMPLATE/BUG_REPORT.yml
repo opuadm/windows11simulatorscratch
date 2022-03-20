@@ -1,18 +1,5 @@
-name: "Bug Report"
-description: "Report a bug that you found"
-title: "[Bug]: "
-labels: "bug"
-body:
-- type: textarea
-  attributes:
-   value: |
-     "Thanks for taking some while to report a bug!"
-- type: dropdown
-  id: download
-  attributes:
-    label: "On what version did you saw that bug?"
-    options:
-     - Latest Version
-     - Old Version
-    validations:
-    required: true
+name: Report Bug
+about: Report a bug.
+title: "Report Bug"
+labels: tracking issue, needs triage
+assignees: octocat
