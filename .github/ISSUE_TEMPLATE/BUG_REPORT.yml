@@ -10,7 +10,7 @@ body:
 - type: dropdown
   id: download
   attributes:
-   label: On what version did you saw that bug?
+   label: "On what version did you saw that bug?"
    options:
     - Latest Version
     - Old Version
