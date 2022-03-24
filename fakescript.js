@@ -8,5 +8,8 @@ Volume.Set="5%"
  else
    Volume.Set="50%"
 Detect.Script.Delete
-   end
-end
+MBR.Weird(End(Else))
+ ScriptLine3.Save
+ Lang=eu/EU
+Delete.Protocol={Delete}=(else=(Add.Protocol=Add)
+(end(end))
